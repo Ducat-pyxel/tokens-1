@@ -1,0 +1,11 @@
+{
+    "name": "DUCATO",
+    "website": "https://www.ducatoven.com",
+    "description": "Cross-chain aggregation of Ethereum ecological resources and traffic, providing financial derivatives services for Polygon, Arbitrum, BSC, and ETH users.",
+    "explorer": "https://polygonscan.com/token/0x985e9558c48a66e9a526ee1e106dcb95e9a4cc05",
+    "type": "ERC20",
+    "symbol": "VEN",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x985e9558c48a66e9a526ee1e106dcb95e9a4cc05"
+} 
